@@ -4,14 +4,14 @@
 
 ## imgs das rotas
 <h2>Agendamento</h2>
-![agendamento](/img/agendamento.png "agendamento")
+![agendamento](./img/agendamento.png "agendamento")
 
 <h2>Paciente</h2>
-![paciente](/img/paciente.png "paciente")
+![paciente](./img/paciente.png "paciente")
 
 <h2>Especialidade</h2>
-![especialidade](/img/especialidade.png "especialidade")
+![especialidade](./img/especialidade.png "especialidade")
 
 <h2>Profissional</h2>
-![profissional](/img/profissional.png "profissional")
+![profissional](./img/profissional.png "profissional")
 <br>
