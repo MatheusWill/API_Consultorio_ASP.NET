@@ -5,6 +5,9 @@
 ## imgs das rotas
 <h2>Agendamento</h2>
 ![agendamento](./img/agendamento.png "agendamento")
+<p align="center">
+  <img src="./img/agendamento.png" width="350" title="agendamento" alt="agendamento">
+</p>
 
 <h2>Paciente</h2>
 ![paciente](./img/paciente.png "paciente")
