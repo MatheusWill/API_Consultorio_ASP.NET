@@ -5,21 +5,21 @@
 ## imgs das rotas
 <h2>Agendamento</h2>
 <p align="center">
-  <img src="./img/agendamento.png" width="350" title="agendamento" alt="agendamento">
+  <img src="./img/agendamento.png" width="400" title="agendamento" alt="agendamento">
 </p>
 
 <h2>Paciente</h2>
 <p align="center">
-  <img src="./img/paciente.png" width="350" title="paciente" alt="paciente">
+  <img src="./img/paciente.png" width="400" title="paciente" alt="paciente">
 </p>
 
 <h2>Especialidade</h2>
 <p align="center">
-  <img src="./img/especialidade.png" width="350" title="especialidade" alt="especialidade">
+  <img src="./img/especialidade.png" width="450" title="especialidade" alt="especialidade">
 </p>
 
 <h2>Profissional</h2>
 <p align="center">
-  <img src="./img/profissional.png" width="350" title="profissional" alt="profissional">
+  <img src="./img/profissional.png" width="650" title="profissional" alt="profissional">
 </p>
 <br>
